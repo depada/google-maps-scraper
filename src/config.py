@@ -1,9 +1,9 @@
-'''
+"""
 Love It? Star It! ⭐ https://github.com/omkarcloud/google-maps-scraper/
-'''
+"""
 queries = [
     {
-        "keyword": "restaurants in delhi",
+        "keyword": "marriage bureau in MAHABUBNAGAR",
     },
 ]
 

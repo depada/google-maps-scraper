@@ -1,3 +1,141 @@
 {
-    "count": 3
+    "count": 44,
+    "restaurants-in-delhi": {
+        "query": {
+            "keyword": "restaurants in delhi"
+        },
+        "hash": "8ab061bb4ee30bb2c6cfaa5b87b40058"
+    },
+    "restaurants-in-nampally": {
+        "query": {
+            "keyword": "restaurants in nampally"
+        },
+        "hash": "9484ae715fbcd130e1ae147cfb762168"
+    },
+    "event-management-companies-in-telangana": {
+        "query": {
+            "keyword": "event management companies in telangana"
+        },
+        "hash": "f26ac18b5c84ed1470dc3db1ceef52f5"
+    },
+    "chocolate-shops-in-hyderabad": {
+        "query": {
+            "keyword": "chocolate shops in hyderabad"
+        },
+        "hash": "bd8a3c0d60730f686a41944acfa86268"
+    },
+    "sweet-shops-in-hyderabad": {
+        "query": {
+            "keyword": "sweet shops in hyderabad"
+        },
+        "hash": "0024dddeae2cf150befb35c35d428677"
+    },
+    "restaurants-in-hyderabad": {
+        "query": {
+            "keyword": "restaurants in hyderabad"
+        },
+        "hash": "4fe2826e336143cc9a0c8045dc84d074"
+    },
+    "cafes-in-hyderabad": {
+        "query": {
+            "keyword": "cafes in hyderabad"
+        },
+        "hash": "0d1e99f99f508c38bf4b354368533d4a"
+    },
+    "caterings-in-hyderabad": {
+        "query": {
+            "keyword": "caterings in hyderabad"
+        },
+        "hash": "8eded855f9c171cb0cafac771ffc52fd"
+    },
+    "furniture-shops-in-hyderabad": {
+        "query": {
+            "keyword": "furniture shops in hyderabad"
+        },
+        "hash": "c7ac138f65f4f12aca40c92e327892b3"
+    },
+    "water-supply-shops-in-hyderabad": {
+        "query": {
+            "keyword": "water supply shops in hyderabad"
+        },
+        "hash": "5066503be72af7e3f7839e6bf27b00be"
+    },
+    "dental-hospitals-in-kondapur": {
+        "query": {
+            "keyword": "dental hospitals in kondapur"
+        },
+        "hash": "5686dc6039b5eefaa459a7ab12333423"
+    },
+    "boutiques-and-designers-in-hyderabad": {
+        "query": {
+            "keyword": "boutiques and designers in hyderabad"
+        },
+        "hash": "f30b25cc3fe7a2ba8c7e8d0444a73710"
+    },
+    "salons-in-hyderabad": {
+        "query": {
+            "keyword": "salons in hyderabad"
+        },
+        "hash": "7503197b9a6c6f3032dadb459866af98"
+    },
+    "mehindi-artists-in-hyderabad": {
+        "query": {
+            "keyword": "mehindi artists in hyderabad"
+        },
+        "hash": "bc2698e9219194535b1b20e2305bc0c7"
+    },
+    "marriage-bureau-in-bhadradri-kothagudem": {
+        "query": {
+            "keyword": "marriage bureau in BHADRADRI KOTHAGUDEM"
+        },
+        "hash": "eb5a2514049c7ad152afb70a6492644f"
+    },
+    "marriage-bureau-in-hanumakonda": {
+        "query": {
+            "keyword": "marriage bureau in HANUMAKONDA"
+        },
+        "hash": "82153210b50232e00f183cff959e3f78"
+    },
+    "marriage-bureau-in-jagtial": {
+        "query": {
+            "keyword": "marriage bureau in JAGTIAL"
+        },
+        "hash": "9772644e2f3152a41a5971e43d1f60c9"
+    },
+    "marriage-bureau-in-jangoan": {
+        "query": {
+            "keyword": "marriage bureau in JANGOAN"
+        },
+        "hash": "3d55d67874dc2afc9c1ac71beab28a82"
+    },
+    "marriage-bureau-in-kamareddy": {
+        "query": {
+            "keyword": "marriage bureau in KAMAREDDY"
+        },
+        "hash": "339ede074a6d3f367b3bcc897d1ea75b"
+    },
+    "marriage-bureau-in-karimnagar": {
+        "query": {
+            "keyword": "marriage bureau in \tKARIMNAGAR"
+        },
+        "hash": "cd91b6a44dcc36f5eb62b1ebb87a0124"
+    },
+    "marriage-bureau-in-komaram-bheem-asifabad": {
+        "query": {
+            "keyword": "marriage bureau in \tKOMARAM BHEEM ASIFABAD"
+        },
+        "hash": "398dd596d8aa55caa052a27082f9ab23"
+    },
+    "marriage-bureau-in-komaram-bheem-mahabubabad": {
+        "query": {
+            "keyword": "marriage bureau in \tKOMARAM BHEEM MAHABUBABAD"
+        },
+        "hash": "be24d0ec36fc7e2ab7c899c4d7bb484f"
+    },
+    "marriage-bureau-in-mahabubnagar": {
+        "query": {
+            "keyword": "marriage bureau in MAHABUBNAGAR"
+        },
+        "hash": "b7949f1f69c3e119dec3b1a714eb4595"
+    }
 }
